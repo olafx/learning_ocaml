@@ -1,0 +1,4 @@
+(executable
+ (public_name irulan)
+ (name main)
+ (libraries irulan))
